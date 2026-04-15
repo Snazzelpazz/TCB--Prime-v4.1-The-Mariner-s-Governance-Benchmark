@@ -1,0 +1,8 @@
+# TCB-ØPrime v4.1 Environment Lock
+numpy>=1.24.0
+sentence-transformers>=2.2.2
+anthropic>=0.25.0
+openai>=1.12.0
+tqdm>=4.65.0
+scikit-learn>=1.2.0
+# Recommended LLM-Judge: claude-3-5-sonnet-20240620
